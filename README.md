@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#pnglish">In English:</a><br>
+  <a href="#english">In English:</a><br>
   <a href="#-Technology">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Initializing">Initializing</a><br>
   <a href="#português">Em Português:</a><br>
