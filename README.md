@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="#english:">In English:</a><br>
+  <a href="#-English">In English:</a><br>
   <a href="#-Technology">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Initializing">Initializing</a><br>
-  <a href="#português:">Em Português:</a><br>
+  <a href="#-Português">Em Português:</a><br>
   <a href="#Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Inicializando">Inicializando</a>
 </p>
