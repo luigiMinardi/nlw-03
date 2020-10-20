@@ -41,7 +41,7 @@ Go to [MapBox][accmap] and copy your token than create a ``.env`` on ``/web`` pu
 
 # Português
 
-## 🚀 Tecnologias
+## Tecnologias
 
 Para rodar esse projeto você vai precisar ter as seguintes tecnologias instaladas no seu computador:
 
